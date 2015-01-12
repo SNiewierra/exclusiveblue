@@ -41,7 +41,7 @@ __________________________________________________________________________
 Exclusiveblue is a simple web application, where the administrator can control, who can log in and who can't.
 This might be usefull if you want to build a private site with photos were you can allow your friends to see them, or a textupload where only people you want can see it.
 
-![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
+_________________________________________________________________________
 
 ##2. How it works for the User
 
@@ -51,6 +51,8 @@ This might be usefull if you want to build a private site with photos were you c
 
 ######New User registers with Name,Mail and Password
 
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
+
 _________________________________________________________________________
 
 ###Now this site opens, just go back to startpage
@@ -59,6 +61,7 @@ _________________________________________________________________________
 
 ######This page shows that the registerfunction was successful
 
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
 __________________________________________________________________________
 
 ###At this point the administrator has to do some work
@@ -67,6 +70,7 @@ __________________________________________________________________________
 
 ######The administrator revieces an SMS with the mail from the new User and the code to accept him
 
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
 __________________________________________________________________________
 
 ###To accept a new User
@@ -81,6 +85,7 @@ ___________________________________________________________________________
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/apply.png)
 
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
 ___________________________________________________________________________
 
 ###Now the new User is accepted and can login
