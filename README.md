@@ -79,6 +79,7 @@ __________________________________________________________________________
 
 ######To accept a new User, press the 'Accept new Member'-button 
 
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
 ___________________________________________________________________________
 
 ###The administrator inserts the name and the code he received per SMS
