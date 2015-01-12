@@ -41,7 +41,7 @@ __________________________________________________________________________
 Exclusiveblue is a simple web application, where the administrator can control, who can log in and who can't.
 This might be usefull if you want to build a private site with photos were you can allow your friends to see them, or a textupload where only people you want can see it.
 
-_________________________________________________________________________
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
 
 ##2. How it works for the User
 
@@ -73,7 +73,7 @@ __________________________________________________________________________
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/accept.png)
 
-######To accept a new User, press the 'Accept'-button 
+######To accept a new User, press the 'Accept new Member'-button 
 
 ___________________________________________________________________________
 
