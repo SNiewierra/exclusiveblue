@@ -12,7 +12,7 @@ If you're not into bluemix yet, no problem I was neither, here's a [link] for a 
 
 ###Overview
 1. What is exclusiveblue?
-2. How it work(Userside)
+2. How it works(Userside)
 3. How it works(Technicalside)
     - Node.js
     - Cloudant
