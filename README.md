@@ -3,7 +3,12 @@ Exclusiveblue a Bluemix Demo
 
 Welcome to the [exclusiveblue]-documentation.
 
-If you're not into bluemix yet, no problem I was neither, here's a [link] for a good tutorial for beginners
+exclusiveblue is a demo made with bluemix. It shows how node.js cloudant and twilio works together,and it shows how easy it is for beginners like me, to build such a demo without great knowledge in one of these areas.
+
+If you're not into bluemix yet, no problem, I was neither, here's a [link] for a good tutorial for beginners
+
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/functionblue.png)
+
 
 ####What you need to know, to understand my application
   - HTML
@@ -36,6 +41,8 @@ This might be usefull if you want to build a private site with photos were you c
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/register.png)
 
+#####
+
 
 ###Now this site opens, just go back to startpage
 
@@ -59,7 +66,7 @@ This might be usefull if you want to build a private site with photos were you c
 
 ###Now the new User is accepted and can login
 
-B![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/login.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/login.png)
 
 
 ###End ends up on the "exclusive" page
