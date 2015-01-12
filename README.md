@@ -24,11 +24,7 @@ ___________________________________________________________________________
 
 ###Overview
 1. What is exclusiveblue?
-2. How it works(Userside)
-3. How it works(Technicalside)
-    - Node.js
-    - Cloudant
-    - Twilio
+2. How it works
     
 __________________________________________________________________________
 
