@@ -15,6 +15,8 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/whitepage.png)
 
+___________________________________________________________________________
+
 ####You need basic knowledge in this areas to understand my demo
   - HTML
   - CSS
