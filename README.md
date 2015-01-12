@@ -18,7 +18,7 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
 
 
 
-####What you need to know, to understand my application
+####You need basic knowledge in this areas to understand my demo
   - HTML
   - CSS
   - Node.js
@@ -42,6 +42,7 @@ __________________________________________________________________________
 Exclusiveblue is a simple web application, where the administrator can control, who can log in and who can't.
 This might be usefull if you want to build a private site with photos were you can allow your friends to see them, or a textupload where only people you want can see it.
 
+_________________________________________________________________________
 
 ##2. How it works for the User
 
@@ -51,6 +52,7 @@ This might be usefull if you want to build a private site with photos were you c
 
 ######New User registers with Name,Mail and Password
 
+_________________________________________________________________________
 
 ###Now this site opens, just go back to startpage
 
@@ -58,11 +60,15 @@ This might be usefull if you want to build a private site with photos were you c
 
 ######This page shows that the registerfunction was successful
 
+__________________________________________________________________________
+
 ###At this point the administrator has to do some work
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/screen.png)
 
 ######The administrator revieces an SMS with the mail from the new User and the code to accept him
+
+__________________________________________________________________________
 
 ###To accept a new User
 
@@ -70,18 +76,22 @@ This might be usefull if you want to build a private site with photos were you c
 
 ######To accept a new User, press the 'Accept'-button 
 
+___________________________________________________________________________
+
 ###The administrator inserts the name and the code he received per SMS
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/apply.png)
 
+___________________________________________________________________________
 
 ###Now the new User is accepted and can login
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/login.png)
 
 
-###End ends up on the "exclusive" page
+######End ends up on the "exclusive" page
 
+____________________________________________________________________________
 
 
 
