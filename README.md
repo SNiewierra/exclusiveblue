@@ -3,7 +3,7 @@ Exclusiveblue a Bluemix Demo
 
 Welcome to the [exclusiveblue]-documentation.
 
-If you're not into bluemix yet, no problem I was neither, here's a [link] to good tutorial for beginners
+If you're not into bluemix yet, no problem I was neither, here's a [link] for a good tutorial for beginners
 
 ####What you need to know, to understand my application
   - HTML
