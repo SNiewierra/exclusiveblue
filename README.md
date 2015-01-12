@@ -3,7 +3,7 @@ Exclusiveblue a Bluemix Demo
 
 Welcome to the exclusiveblue-documentation.
 
-[exclusiveblue] is a demo made with bluemix. It shows how node.js cloudant and twilio works together,and it shows how easy it is for beginners like me, to build such a demo without great knowledge in one of these areas.
+[exclusiveblue] is a demo made with bluemix. It shows how node.js, cloudant and twilio works together,and how easy it is for beginners like me, to build such a demo without great knowledge in one of these areas.
 
 If you're not into bluemix yet, no problem, I was neither, here's a [link] for a good tutorial for beginners
 
