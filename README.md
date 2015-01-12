@@ -39,7 +39,7 @@ This might be usefull if you want to build a private site with photos were you c
 
 ###Now this site opens, just go back to startpage
 
-![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registerered.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registered.png)
 
 
 ###At this point the administrator has to do some work
