@@ -1,0 +1,86 @@
+#input-1
+{
+	display:inline;
+	text-align: center;
+}
+
+#menu:hover   
+{ 
+	color:white;
+	background-color:#58D3F7; 
+	
+}
+
+#home:hover
+{
+	color:#58D3F7;
+}
+
+#toppingLetter
+{
+	display: inline;
+	color:#99CCFF;
+}
+
+#h2blue
+{
+	color:#428bca;
+}
+
+#headfield
+{
+	text-align: center;
+	background-color: #4F4E4E;
+	padding:10px 100px 10px 100px;
+}
+
+#contentfield
+{
+	border-style: none;
+	background-color: #4F4E4E;
+}
+
+#a
+{
+	text-decoration: none;
+	color: white;
+	background-color: #58D3F7;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+#textfield
+{
+	border-style: none;
+	background-color: #6E6E6E;
+	color: white;
+	height: 50px;
+	width: 300px;
+	margin-top: 5px;
+	font-weight: bold;
+}
+
+#button
+{
+	border-radius: 5px;
+	height: 50px;
+	width: 300px;
+	background-color: #58D3F7;
+	color: white;
+	border-style: none;
+	margin-top: 20px;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+#button:hover
+{
+	background-color: #B6E9F8;
+}
+
+#table
+{
+	text-align: center;
+}
