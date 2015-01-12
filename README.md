@@ -7,9 +7,15 @@ Welcome to the exclusiveblue-documentation.
 
 If you're not into bluemix yet, no problem, I was neither, here's a [link] for a good tutorial for beginners
 
+
+
 ###What exclusiveblue does
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/functionblue.png)
+
+
+
+
 
 
 ####What you need to know, to understand my application
@@ -43,25 +49,28 @@ This might be usefull if you want to build a private site with photos were you c
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/register.png)
 
-#####
+#####New User registers, with Name,Mail and Password
 
 
 ###Now this site opens, just go back to startpage
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registered.png)
 
+#####This page shows that the registerfunction was successful
 
 ###At this point the administrator has to do some work
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/screen.png)
 
+#####The administrator revieces an SMS with the mail from the new User and the code to accept him
 
 ###To accept a new User
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/accept.png)
 
+#####To accept a new User, press the 'Accept'-button 
 
-###The administrator inserts the name and the code he get's per SMS
+###The administrator inserts the name and the code he received per SMS
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/apply.png)
 
