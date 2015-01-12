@@ -37,29 +37,29 @@ This might be usefull if you want to build a private site with photos were you c
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/register.png)
 
 
-###Now you this site opens, just go back to startpage
+###Now this site opens, just go back to startpage
 
-Bild registered
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registerered.png)
 
 
 ###At this point the administrator has to do some work
 
-Bild screenSMS
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/screen.png)
 
 
 ###To accept a new User
 
-Bild accept
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/accept.png)
 
 
 ###The administrator inserts the name and the code he get's per SMS
 
-Bild apply
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/apply.png)
 
 
 ###Now the new User is accepted and can login
 
-Bild login
+B![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/login.png)
 
 
 ###End ends up on the "exclusive" page
