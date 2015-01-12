@@ -3,7 +3,7 @@
 
 Welcome to the [exclusiveblue]-documentation.
 
-If you're not into bluemix yet, no problem, here's a [link] to good tutorial for beginners
+If you're not into bluemix yet, no problem I was neither, here's a [link] to good tutorial for beginners
 
 ####What you need to know, to understand my application
   - HTML
@@ -33,7 +33,8 @@ This might be usefull if you want to build a private site with photos were you c
 ##2. How it works for the User
 
 ###Register yourself 
-Bild register
+
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/register.png)
 
 
 ###Now you this site opens, just go back to startpage
