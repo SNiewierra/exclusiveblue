@@ -1,5 +1,5 @@
-# Exclusiveblue
-==============
+Exclusiveblue a Bluemix Demo
+===========
 
 Welcome to the [exclusiveblue]-documentation.
 
