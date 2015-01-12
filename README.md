@@ -9,6 +9,10 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
 
 
 
+
+
+
+
 ###What exclusiveblue does
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/functionblue.png)
