@@ -22,7 +22,7 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
-
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 ####1. What is exclusiveblue
 
@@ -33,10 +33,12 @@ This might be usefull if you want to build a private site with photos were you c
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
-
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 
 ####2. How it works for the User
+
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 #####2.1 Userside 
 Register yourself with your name, mail and password. This will make a new database entry with four values (name, mail, password, random number and accepted). Accepted is the value needed to log in, default is no, the administrator has to change this value to yes.
@@ -49,8 +51,9 @@ The next site, which will pop up, is just a information for the user. You succes
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registered.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
-####2.2 Administratorside
+#####2.2 Administratorside
 
 The next step is only on administrator side. The administrator will get an SMS when a new user tries to sign up. The SMS will show the mail adress and the random number. 
 
