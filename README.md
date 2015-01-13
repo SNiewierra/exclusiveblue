@@ -7,7 +7,7 @@ Welcome to the exclusiveblue-documentation.
 
 If you're not into bluemix yet, no problem, I was neither, here's a [link] for a good tutorial for beginners
 
-![alt tag](https://raw.githubusercontent.com/JDihlmann/Tmoodlocator/master/imageFiles/web.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 ###### What exclusiveblue does
 
