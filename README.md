@@ -88,7 +88,7 @@ Now the accepted value is set yes and the user can finally login.
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/login.png)
 
 
-End ends up on the "exclusive" page
+He ends up on the "exclusive" page, if you want so see what the "exclusive" page is, register and hope that the administrator will accept you ;) .
 
 
 
