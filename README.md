@@ -38,7 +38,7 @@ This might be usefull if you want to build a private site with photos were you c
 
 ####2. How it works for the User
 
-#####Userside 1
+#####2.1 Userside 
 Register yourself with your name, mail and password. This will make a new database entry with four values (name, mail, password, random number and accepted). Accepted is the value needed to log in, default is no, the administrator has to change this value to yes.
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/register.png)
@@ -50,7 +50,7 @@ The next site, which will pop up, is just a information for the user. You succes
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registered.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
-####Adminside
+####2.2 Administratorside
 
 The next step is only on administrator side. The administrator will get an SMS when a new user tries to sign up. The SMS will show the mail adress and the random number. 
 
@@ -77,7 +77,7 @@ The administrator inserts the name and the code he received per SMS
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/apply.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
-####Userside 2
+####2.3 Userside 
 
 Now the new User is accepted and can login
 
