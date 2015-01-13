@@ -20,6 +20,13 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
   - CSS
   - Node.js
 
+
+###### Overview
+1. What is exclusiveblue
+2. How it works for the User
+    - 2.1 Userside (1)
+    - 2.2 Administratorside
+    - 2.3 Userside (2)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
