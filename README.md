@@ -24,7 +24,7 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 
-#####1. What is exclusiveblue
+####1. What is exclusiveblue
 
 Exclusivblue is what iCloud should do, an security sytem controled by SMS. 
 
@@ -41,7 +41,7 @@ This might be usefull if you want to build a private site with photos were you c
 Register yourself with your name, mail and password. This will make a new database entry with four values (name, mail, password, random number and accepted). Accepted is the value needed to log in, default is no, the administrator has to change this value to yes.
 
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/register.png)
-![alt tag](https://raw.githubusercontent.com/JDihlmann/Tmoodlocator/master/imageFiles/return0.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 
 The next site, which will pop up, is just a information for the user. You successfully made an entry to the database. Also there is a button, which leads the way back to the startepage.
