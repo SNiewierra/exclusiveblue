@@ -57,7 +57,7 @@ Register yourself with your name, mail and password. This will make a new databa
 
 The next site, which will pop up, is just a information for the user. You successfully made an entry to the database. Also there is a button, which leads the way back to the starterpage.
 
-![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registered.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/registered2.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
@@ -65,7 +65,7 @@ The next site, which will pop up, is just a information for the user. You succes
 
 The next step is only on administrator side. The administrator will get an SMS when a new user tries to sign up. The SMS will show the mail adress and the code to accept this user. 
 
-![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/screen.png)
+![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/phone.png)
 ![alt tag](https://raw.githubusercontent.com/SNiewierra/exclusiveblue/master/imageFiles/web.png)
 
 
