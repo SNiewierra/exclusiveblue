@@ -34,7 +34,7 @@ If you're not into bluemix yet, no problem, I was neither, here's a [link] for a
 
 ####1. What is exclusiveblue
 
-Exclusivblue is what iCloud should do, an second authentification security system controled by SMS. 
+Exclusivblue is an second authentification security system controled by SMS. 
 
 Exclusiveblue is a simple web application, where the administrator can control, who can log in and who can't.
 This might be usefull if you want to build a private site with photos were you can allow your friends to see them, or a textupload where only people you want, can see it.
